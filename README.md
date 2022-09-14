@@ -5,7 +5,7 @@ The project is to provide the user a front-end tool for a more in-depth analysis
 
 ## Results
 The table lists all UFO sightings after the user selects multiple criteria and dynamically updates when criteria are changed.
-![alt text]('./resources/filtering.png)
+![alt text]('./resources/filtering.png')
 
 ## Summary
 The drawback is the input of criterion is case sensitive. For example, it only allows 'us', instead of 'US' as the country.
